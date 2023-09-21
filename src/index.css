@@ -1,0 +1,16 @@
+:root {
+  --primary: #616e70;
+  --secondary: #f8f8f8;
+  font-family: "Inclusive Sans", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--secondary);
+  background-color: var(--primary);
+}
